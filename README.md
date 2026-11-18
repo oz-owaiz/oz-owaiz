@@ -13,7 +13,28 @@ My current focus is on applying data science and machine learning concepts to re
 - **Databases:** SQL, MySQL, Data Retrieval, Aggregations, Subqueries, Window Functions
 - **Machine Learning:** Regression, Classification, Feature Engineering, Model Evaluation, Scikit-learn
 - **Machine Learning Workflows:** Data Preprocessing, Train-Test Split, Pipelines, Cross-Validation, Hyperparameter Tuning
-- **Tools:** Jupyter Notebook, VS Code, Git, GitHub
+
+### 🛠️ Tech Stack
+
+**Programming Languages & Databases**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Libraries & Frameworks**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Development Tools & Software**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
 ### 📂 Featured Projects
 
