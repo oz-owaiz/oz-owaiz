@@ -1,16 +1,19 @@
+
+
 # 👋 About Me
 
 I am an aspiring **Machine Learning Engineer and Data Analytics professional** focused on developing practical skills in Python, SQL, Data Analysis, and Machine Learning through hands-on projects and continuous learning.
 
 With an academic background in Electrical Engineering, an MBA in Project Management, and over 9 years of professional experience in engineering and technical project delivery, I bring a combination of analytical thinking, technical problem-solving, and project-oriented experience to my transition into the data and AI field.
 
-My current focus is on applying data science and machine learning concepts to real-world datasets, developing structured workflows, and building practical solutions through Python and SQL.
+My current focus is on applying data science and machine learning concepts to real-world datasets, developing structured workflows, and building practical solutions through Python and SQL. I am also working with **Power BI** to develop interactive dashboards and present data insights through visualizations.
 
 ### 💻 Technical Skills & Areas of Focus
 
 - **Programming:** Python
 - **Data Analysis:** Pandas, NumPy, Data Cleaning, Exploratory Data Analysis (EDA)
 - **Databases:** SQL, MySQL, Data Retrieval, Aggregations, Subqueries, Window Functions
+- **Business Intelligence & Data Visualization:** Power BI, Interactive Dashboards, KPI Cards, Charts, Slicers, Data Visualization
 - **Machine Learning:** Regression, Classification, Feature Engineering, Model Evaluation, Scikit-learn
 - **Machine Learning Workflows:** Data Preprocessing, Train-Test Split, Pipelines, Cross-Validation, Hyperparameter Tuning
 
@@ -35,6 +38,7 @@ My current focus is on applying data science and machine learning concepts to re
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Microsoft Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 📂 Featured Projects
 
@@ -42,6 +46,7 @@ My current focus is on applying data science and machine learning concepts to re
 - **Machine Learning Regression:** California Housing Price Prediction using Linear Regression, Ridge Regression, and Random Forest.
 - **SQL – Retail Sales Analysis:** Data exploration and business analysis using MySQL, including aggregations, subqueries, and window functions.
 - **SQL – Student Performance Analysis:** Analyzing student academic performance using SQL queries and analytical techniques.
+- **Power BI – Sales Performance Dashboard:** Interactive Power BI dashboard providing a visual representation of my completed SQL Sales Performance Analysis, transforming the SQL-based analysis into KPI cards, charts, and slicers for exploring business insights.
 
 ### 🎯 Current Learning Goals
 
@@ -49,6 +54,7 @@ My current focus is on applying data science and machine learning concepts to re
 - Improving Python and SQL problem-solving skills.
 - Working with real-world datasets and developing practical projects.
 - Expanding knowledge of Deep Learning, AI, and modern machine learning applications.
+- Developing Power BI skills through interactive dashboard creation and data visualization.
 
 ### 🤝 Connect With Me
 
@@ -56,3 +62,4 @@ My current focus is on applying data science and machine learning concepts to re
 - **GitHub:** https://github.com/oz-owaiz
 
 I believe in continuous learning, practical implementation, and building solutions that turn data into meaningful insights.
+
